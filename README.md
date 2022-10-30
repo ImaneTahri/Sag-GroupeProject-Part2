@@ -1,4 +1,4 @@
-﻿# Sage-GroupeProject-Part1
+﻿# Sage-GroupProject-Part1
 - This project is being created as part of the team project of web application development course (COMP229), for study purpose.
 - Homepage display a page to create a survey list linked to mongoDB database to create a new survey.
 - working on MVC framework
